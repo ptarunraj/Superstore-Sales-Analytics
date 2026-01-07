@@ -1,4 +1,4 @@
-📊 **Superstore Sales Analysis**
+**Superstore Sales Analysis**
 
 This repository contains an Excel-based sales analytics project (Superstore Sales Data V2 File) using the Superstore dataset. The focus is on creating dynamic insights and visualizations with PivotTables, formulas, and slicers.
 
